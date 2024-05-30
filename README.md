@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @keiladelre
+- 👋 Oi, eu sou @keiladelre!
 - 👀 Estou fazendo transição de carreira para a área de análise de dados.
 - 🌱 Atualmente estou aprendendo as linguagens: pyton e SQL e as ferramentas BigQuery, Google Colab, Power BI, Looker Studio.
 - 💞️ Eu estou a procura de uma oportunidade na área de dados no setor financeiro.
