@@ -4,7 +4,7 @@
 - 💞️ Eu estou a procura de uma oportunidade na área de dados no setor financeiro.
 - 📫 Como me contatar: www.linkedin.com/in/keila-maria-del-ré-9aa2a9102
 - 😄 Pronomes: ela, dela.
-- ⚡ Curiosidade: sou formada em Economia, tenho cursos na área de projetos e processos de melhoria contínua.
+- ⚡ Curiosidade: sou formada em Economia, tenho experiência na área de projetos e processos de melhoria contínua.
 
 <!---
 keiladelre/keiladelre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
