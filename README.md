@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @keiladelre!
 - 👀 Estou fazendo transição de carreira para a área de análise de dados.
-- 🌱 Atualmente estou aprendendo as linguagens: Python e SQL e as ferramentas BigQuery, Google Colab, Power BI, Looker Studio.
+- 🌱 Atualmente estou aprendendo: Python, SQL, BigQuery, Google Colab, Power BI, Looker Studio.
 - 💞️ Eu estou a procura de uma oportunidade na área de dados no setor financeiro.
 - 📫 Como me contatar: www.linkedin.com/in/keila-maria-del-ré-9aa2a9102
 - 😄 Pronomes: Ela, dela.
